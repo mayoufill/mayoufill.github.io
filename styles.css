@@ -205,14 +205,7 @@ header .right-area {
 
 /* HAMBURGER ICON */
 
-header .menu-nav-icon {
-        display: inline-block;
-        font-size: 30px;
-        line-height: 60px;
-        display: none;
-        cursor: pointer;
-        color: #ffffff;
-}
+
 
 /* DROPDOWN MENU STYLING */
 
@@ -350,7 +343,14 @@ header .main-menu li.drop-down a.mouseover + ul.drop-down-menu {
 
         header .main-menu { top: 90px; }
 }
-
+header .menu-nav-icon {
+        display: inline-block;
+        font-size: 30px;
+        line-height: 60px;
+        display: none;
+        cursor: pointer;
+        color: #ffffff;
+}
 @media only screen and (max-width: 359px) {
 
         header .heading-wrapper { padding: 30px 20px 20px; }
