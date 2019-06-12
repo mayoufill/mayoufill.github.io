@@ -213,6 +213,11 @@ header .menu-nav-icon {
         cursor: pointer;
         color: #ffffff;
 }
+.menu-nav-icon { position: absolute; top: 15px; right: 0; padding: 0 20px; }
+
+        header .right-area { padding-top: 15px; }
+
+        header .main-menu { top: 90px; }
 
 /* DROPDOWN MENU STYLING */
 
