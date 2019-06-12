@@ -408,6 +408,7 @@ header .main-menu li.drop-down a.mouseover + ul.drop-down-menu {
 }
 .btn:hover {background: #eee;}
 
+.all {color: #000000;}
 .shaw {color: #000000;}
 .bbq {color: #000000;}
 .veg {color: #000000;}
