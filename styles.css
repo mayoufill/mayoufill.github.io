@@ -400,18 +400,18 @@ header .main-menu li.drop-down a.mouseover + ul.drop-down-menu {
 
 .btn {
     border: none;
-    background-color: inherit;
+    background-color: #ff5000f;
     padding: 14px 28px;
-    font-size: 16px;
+    font-size: 25px;
     cursor: pointer;
     display: inline-block;
 }
-.btn:hover {background: #eee;}
+.btn:hover {background: #ff500f;}
 
-.shaw {color: #ff500f;}
-.bbq {color: #ff500f;}
-.veg {color: #ff500f;}
-.juice {color: #ff500f;}
+.shaw {color: #000000;}
+.bbq {color: #000000;}
+.veg {color: #000000;}
+.juice {color: #000000;}
 
 
 
