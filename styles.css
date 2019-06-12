@@ -400,7 +400,7 @@ header .main-menu li.drop-down a.mouseover + ul.drop-down-menu {
 
 .btn {
     border: none;
-    background-color: #ff5000f;
+    background-color: inherit;
     padding: 14px 28px;
     font-size: 25px;
     cursor: pointer;
