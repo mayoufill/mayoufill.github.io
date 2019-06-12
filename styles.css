@@ -205,7 +205,7 @@ header .right-area {
 
 /* HAMBURGER ICON */
 
-header.menu-nav-icon {
+header .menu-nav-icon {
         display: inline-block;
         font-size: 30px;
         line-height: 60px;
