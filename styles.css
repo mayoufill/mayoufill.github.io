@@ -406,7 +406,7 @@ header .main-menu li.drop-down a.mouseover + ul.drop-down-menu {
     cursor: pointer;
     display: inline-block;
 }
-.btn:hover {background: #ff8152;}
+.btn:hover {background: #eee;}
 
 .shaw {color: #000000;}
 .bbq {color: #000000;}
