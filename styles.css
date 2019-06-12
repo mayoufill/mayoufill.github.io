@@ -398,6 +398,22 @@ header .main-menu li.drop-down a.mouseover + ul.drop-down-menu {
 .pos-top{ position: absolute; top: 0; left: 0; right: 0;  }
 .pos-bottom{ position: absolute; bottom: 0; left: 0; right: 0; }
 
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+}
+.btn:hover {background: #eee;}
+
+.shaw {color: #ff500f;}
+.bbq {color: #ff500f;}
+.veg {color: #ff500f;}
+.juice {color: #ff500f;}
+
+
 
 /* ---------------------------------
 3. COMMON FOR CURRENT
